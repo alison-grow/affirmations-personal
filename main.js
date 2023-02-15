@@ -5,7 +5,10 @@ const up = document.getElementById("header");
 const down = document.getElementById("display");
 const btn = document.getElementById("button");
 const arr = [
-    "My sadness and my depression do not define me",
+    "I may make mistakes, but I can recover and keep going.  I don’t need to lose hope over a minor setback.",
+    "I do not want to waste a single moment of my life - I can’t get it back. I will squeeze as much happiness as possible out of every day.",
+    "No one else can fix my problems - I will find my own solutions instead of waiting for someone to do it for me",
+    "Not everything will be easy, but I will persevere because my goals are worth pursuing",
     "My mood doesn’t depend on other people’s opinions",
     "I don’t have to be productive to see value in myself",
     "No one is going to hand me success. Everything requires effort on my part",
@@ -22,7 +25,9 @@ const arr = [
     "Stepping outside of my comfort zone is necessary for growth",
     "I will try to be more understanding of others",
     "I have made it this far, and I won’t stop now",
+    "I forgive others",
     "Shame cannot control me anymore",
+    "I have compassion for others and myself",
     "My worth is not defined by others",
     "What others think of me is none of my business",
     "I will no longer compare myself to others",
