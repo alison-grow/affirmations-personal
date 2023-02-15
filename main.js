@@ -5,9 +5,10 @@ const up = document.getElementById("header");
 const down = document.getElementById("display");
 const btn = document.getElementById("button");
 const arr = [
-    "I may make mistakes, but I can recover and keep going.  I don’t need to lose hope over a minor setback.",
-    "I do not want to waste a single moment of my life - I can’t get it back. I will squeeze as much happiness as possible out of every day.",
-    "No one else can fix my problems - I will find my own solutions instead of waiting for someone to do it for me",
+    "I might make mistakes, but I can recover and keep going. I don’t need to lose hope over a minor setback.",
+    "I am beautiful",
+    "I don’t need to change myself to feel attractive",
+    "I will find solutions to my problems instead of waiting for someone to solve them for me",
     "Not everything will be easy, but I will persevere because my goals are worth pursuing",
     "My mood doesn’t depend on other people’s opinions",
     "I don’t have to be productive to see value in myself",
@@ -94,8 +95,9 @@ const arr = [
     "I can only give happiness to others once I have found happiness in myself",
     "I am the architect of my fate. I can achieve what I have dreamt for myself",
     "Every day is an opportunity to be better",
+    "I’m grateful for my uniqueness",
     "The past does not equal the future",
-    "If you need a hero, just look in the mirror. No one's gonna save you now, so you better save yourself - Kali Uchis",
+    "If you need a hero, just look in the mirror. No one's gonna save you now, so you better save yourself",
     "I can be soft in my heart and firm in my boundaries",
     "Winners don't quit - don't give up",
     "Nothing good ever comes easy",

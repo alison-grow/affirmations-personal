@@ -78,4 +78,9 @@ body {
     background-color: white;
 }
 
+.song {
+    margin: 50px auto 30px auto;
+    border: 1px solid white;
+}
+
 /* END OF BODY */
